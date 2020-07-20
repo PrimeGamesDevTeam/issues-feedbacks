@@ -2,6 +2,9 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
+labels: ''
+assignees: ''
+
 ---
 
 **Name of server you requesting feature on?**
